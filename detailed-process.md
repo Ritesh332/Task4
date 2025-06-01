@@ -23,15 +23,20 @@
 
     ![Cross-checking point 4](screenshots/telnet_connection-accepted.png)
 
- 6. **Add Rule to Allow SSH (Port 22)**
+    I've used netcat to listen on the same port locally
+
+    ![Netcat](screenshots/nc.png)
+
+ 7. **Add Rule to Allow SSH (Port 22)**
 
     ![Allow ssh](screenshots/allow-ssh.png)
 
     To test the SSH rule, attempt to connect to your local machine via SSH:
 
     ![SSH conncted](screenshots/ssh-connection.png)
+    
     You will be prompted to confirm the connection and then for the password.
 
- 7. **Remove the Test Block Rule to Restore Original State**
+ 8. **Remove the Test Block Rule to Restore Original State**
 
     ![Command to remove rule](screenshots/rule-removed.png)
