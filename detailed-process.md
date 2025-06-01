@@ -5,7 +5,7 @@
     
 2.  **Enable UFW**  (Use 'sudo' if you aren't a root user)
    
-   ![Command to Enable ufw](screenshots/enabling-ufw.png)
+    ![Command to Enable ufw](screenshots/enabling-ufw.png)
 
 3. **List Current Firewall Rules**
 
