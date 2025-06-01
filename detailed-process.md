@@ -18,3 +18,7 @@
    Trying to connect
 
    ![Telnet Connection Request](screenshots/telnet-connection-denied.png)
+
+ 5. **Test the Rule by Attempting to Connect to that Port when 'Allowed'**
+
+    ![Cross-checking point 4](screenshots/telnet-connection-accepted.png)
