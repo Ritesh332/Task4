@@ -11,3 +11,10 @@
 
    ![Command To List Firewall Rules](screenshots/ufw-list.png)
    
+4. **Add a Rule to Block Inbound Traffic on a Specific Port (e.g., 23 for Telnet)**
+   
+   ![Rule to block traffic](screenshots/ufw-deny.png)
+
+   Trying to connect
+
+   ![Telnet Connection Request](screenshots/telnet-connection-denied.png)
