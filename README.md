@@ -26,7 +26,7 @@ To configure and test basic firewall rules on a Linux system using UFW (Uncompli
    - Viewed current active firewall rules.
 
 4. **Blocked Port 23 (Telnet)**
-   - Added a rule to deny inbound traffic on TCP port 23 using: `sudo ufw deny 23`
+   - Added a rule to deny inbound traffic on TCP port 23.
 
 5. **Tested Telnet Block**
    - Attempted to connect to localhost on port 23.
